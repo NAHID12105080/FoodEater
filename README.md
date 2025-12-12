@@ -48,3 +48,14 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## packages to install:
+-bunx expo install expo-dev-client \
+  @expo-google-fonts/nunito \
+  expo-font \
+  expo-haptics \
+  @expo/ui \
+  expo-linear-gradient
+- bun install zustand
+- bun add @tanstack/react-query
+- 
